@@ -1,6 +1,6 @@
 # in-validator[![Build Status](https://drone.io/github.com/clairton/in-validator/status.png)](https://drone.io/github.com/clairton/in-validator/latest)
 
-Bean Validation for unique value in database;
+Bean Validation for collection values in;
 
 ```java
 @Entity
